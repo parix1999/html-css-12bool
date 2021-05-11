@@ -15,15 +15,16 @@
     line-height:170px;
     text-align:center;    
 }
+.space{
+    padding:15px;
+}
 .position{
     position:absolute;
     top:50%;
     left:50%;
     transform: translate(-50%, -50%);
 }
-.space{
-    padding:15px;
-}
+
 .space-square{
     position:relative;
     border:1px solid white;
