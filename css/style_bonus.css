@@ -1,0 +1,11 @@
+.dimension{
+    border:1px solid black;
+    height:100px;
+}
+.green{
+    background-color:green;
+}
+.black{
+    background-color:black;
+    border:1px solid white;
+}
