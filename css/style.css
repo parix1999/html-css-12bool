@@ -1,6 +1,10 @@
-.col-{
+*{
+    font-family:Helvetica, Arial, sans-serif
+}
+.color{
     border:1px solid black;
     height:100px;
-    flex-grow:1;
-    background-color:#ffc1cb
+    background-color:#ffc1cb;
+    text-align:center;
+    line-height:100px;
 }
