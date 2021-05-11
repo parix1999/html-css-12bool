@@ -6,7 +6,13 @@
     height:200px;
     background-color:#ffc1cb;
     text-align:center;
-    /* line-height:200px; */
+    line-height:200px;
+}
+.colore-2{
+    border:1px solid black;
+    height:200px;
+    background-color:#ffc1cb;
+    text-align:center; 
 }
 .ciao{
     border:1px solid white;
