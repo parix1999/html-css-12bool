@@ -1,0 +1,6 @@
+.col-{
+    border:1px solid black;
+    height:100px;
+    flex-grow:1;
+    background-color:#ffc1cb
+}
