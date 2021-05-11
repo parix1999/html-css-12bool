@@ -30,6 +30,7 @@
     left:50%;
     transform: translate(-50%, -50%);
 }
+
 .space-square{
     position:relative;
     border:1px solid white;
