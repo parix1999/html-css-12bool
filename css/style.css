@@ -3,8 +3,18 @@
 }
 .color{
     border:1px solid black;
-    height:100px;
+    height:200px;
     background-color:#ffc1cb;
     text-align:center;
-    line-height:100px;
+    line-height:200px;
+}
+.ciao{
+    border:1px solid white;
+    background-color:#ef7f81;
+    height:170px;
+    text-align:center;
+    line-height:170px;
+}
+.space-square{
+    padding:15px;
 }
