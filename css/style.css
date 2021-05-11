@@ -6,22 +6,28 @@
     height:200px;
     background-color:#ffc1cb;
     text-align:center;
-    line-height:200px;
+    /* line-height:200px; */
 }
 .ciao{
     border:1px solid white;
     background-color:#ef7f81;
     height:170px;
-    text-align:center;
-    
+    line-height:170px;
+    text-align:center;    
 }
 .position{
     position:absolute;
     top:50%;
     left:50%;
-    transform:traslate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.space{
+    padding:15px;
 }
 .space-square{
-    padding:15px;
     position:relative;
+    border:1px solid white;
+    background-color:#ef7f81;
+    height:170px;
+    text-align:center;   
 }
